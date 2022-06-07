@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb30000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb30000&theme=dark)
 
 If you find any of my repositories to be helpful, please give me stars ⭐ as an encouragement!
 
