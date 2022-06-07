@@ -2,7 +2,7 @@
 - 🌊 I’m currently working on my Dapp POOLPARTY.
 - 📫 You can reach me using [email](mailto:haseebsyed30000@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb30000&layout=compact)
 
