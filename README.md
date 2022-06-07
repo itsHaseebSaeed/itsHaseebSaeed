@@ -1,6 +1,3 @@
-- 👋 Hello, I'm Haseeb, a blockchain developer working on 🤫Secret Network.
-- 🌊 I’m currently working on my Dapp POOLPARTY.
-
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -12,9 +9,10 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Haseeb30000" alt="https://github.com/Haseeb30000" />
-
-
 <br />
+
+- 👋 Hello, I'm Haseeb, a blockchain developer working on 🤫Secret Network.
+- 🌊 I’m currently working on my Dapp POOLPARTY.
 - 📫 You can reach me using [email](mailto:haseebsyed30000@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=dark)
