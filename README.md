@@ -9,8 +9,6 @@
 </a>
 <a href="mailto:haseebsyed30000@gmail.com ">📫</a> 
 
-
-
 <img src="https://komarev.com/ghpvc/?username=Haseeb30000" alt="https://github.com/Haseeb30000" />
 <br />
 
