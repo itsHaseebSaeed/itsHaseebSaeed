@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/haseebsaeed30000/">
   <img align="left" alt="Haseeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-📫 [email](mailto:haseebsyed30000@gmail.com)
+<img href="mailto:haseebsyed30000@gmail.com ">📫</img> 
 
 
 
