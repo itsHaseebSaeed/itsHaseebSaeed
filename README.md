@@ -1,4 +1,4 @@
-<a href="https://discord.gg/8Q3BsnUujJ">
+<a href="https://discord.gg/wShamcNM8h">
   <img align="left" alt="SecretNetwork's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/itsHaseebSaeed">
