@@ -14,7 +14,7 @@
 <br />
 
 - 👋 Hello, I'm Haseeb, a blockchain developer working on 🤫Secret Network.
-- 🌊 I’m currently working on my Dapp POOLPARTY.
+- 🌊 I’m currently working on my Dapp GalacticPools.io
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=dark)
 
