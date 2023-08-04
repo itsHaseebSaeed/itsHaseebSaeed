@@ -1,14 +1,14 @@
-<a href="https://discord.gg/wShamcNM8h">
-  <img align="left" alt="SecretNetwork's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/itsHaseebSaeed">
-  <img align="left" alt="Haseeb Saeed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/itsHaseebSaeed/">
-  <img align="left" alt="Haseeb's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:itsHaseebSaeed@gmail.com ">
-  <p align="left" width="22px" >📫</p></a> 
+
+<p align="center">
+  <a href="https://github.com/itsHaseebSaeed">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/itsHaseebSaeed">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="mailto:itsHaseebSaeed@gmail.com ">
+    <img alt="mail" title="mail" height="48" width="48" src="https://cdn.simpleicons.org/npm">📫</a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=itsHaseebSaeed" alt="https://github.com/itsHaseebSaeed" />
 <br />
