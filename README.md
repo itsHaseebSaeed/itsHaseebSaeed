@@ -6,8 +6,9 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/itsHaseebSaeed">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="mailto:itsHaseebSaeed@gmail.com ">
-    <p alt="mail" title="mail" height="48" width="48">📫 </p> </a>
+  <a href="https://twitter.com/itsHaseebSaeed">
+        <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></a>
+ </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=itsHaseebSaeed" alt="https://github.com/itsHaseebSaeed" />
