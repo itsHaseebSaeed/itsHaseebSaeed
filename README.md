@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Haseeb Saeed, a blockchain developer working on 🤫Secret Network</a> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/itsHaseebSaeed">
@@ -15,12 +16,6 @@
 
 <br />
 
-- 👋 Hello, I'm Haseeb, a blockchain developer working on 🤫Secret Network.
-- 🌊 I’m currently working on my Dapp <a href="https://www.galacticpools.io">GalacticPools.io 🪐</a>
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb30000&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb30000&theme=dark) -->
 
 If you find any of my repositories to be helpful, you're welcome
 
