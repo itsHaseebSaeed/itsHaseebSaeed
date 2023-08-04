@@ -5,7 +5,7 @@
   <img align="left" alt="Haseeb Saeed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/itsHaseebSaeed/">
-  <img align="left" alt="Haseeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Haseeb's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:itsHaseebSaeed@gmail.com ">
   <p align="left" width="22px" >📫</p></a> 
