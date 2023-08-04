@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/itsHaseebSaeed">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="mailto:itsHaseebSaeed@gmail.com ">
-    <img alt="mail" title="mail" height="48" width="48" src="https://cdn.simpleicons.org/npm">📫</a>
+    <p alt="mail" title="mail" height="48" width="48"/>📫</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=itsHaseebSaeed" alt="https://github.com/itsHaseebSaeed" />
