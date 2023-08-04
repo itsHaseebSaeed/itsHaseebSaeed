@@ -10,8 +10,9 @@
         <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></a>
  </a>
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=itsHaseebSaeed" alt="https://github.com/itsHaseebSaeed" />
+<p align="center">
+
 <br />
 
 - 👋 Hello, I'm Haseeb, a blockchain developer working on 🤫Secret Network.
