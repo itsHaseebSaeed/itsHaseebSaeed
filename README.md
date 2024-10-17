@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/itsHaseebSaeed">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
   </a>
-  <a href="https://twitter.com/itsHaseebSaeed">
-    <img alt="Twitter" title="twitter" height="48" width="48" src="https://cdn.simpleicons.org/twitter">
+  <a href="https://x.com/itsHaseebSaeed">
+    <img alt="Twitter" title="twitter" height="48" width="48" src="https://cdn.simpleicons.org/x">
   </a>
   <br>
   <br>
