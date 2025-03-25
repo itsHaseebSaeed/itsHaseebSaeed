@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Haseeb Saeed, a blockchain developer working on 🤫 </h2>
+<h2 align="center">Hi, I'm Haseeb Saeed, a software developer </h2>
 
 <p align="center">
   <a href="https://github.com/itsHaseebSaeed">
